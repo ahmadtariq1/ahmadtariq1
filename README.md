@@ -10,7 +10,6 @@ Computer Science student at FAST NUCES. Interested in small AI models, parallel 
 def solve(problem):
     return elegant_solution(problem)
 
-# Simple. Efficient. Effective.
 ```
 
 ## Technologies
