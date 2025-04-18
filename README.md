@@ -24,24 +24,24 @@ def solve(problem):
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Signature Projects
+## Projects
 
 ### MentorAlgo
 Visualizing algorithms with interactive flowcharts, turning abstract code into tangible understanding.(Work going on)
 ```
-💡 Intent Recognition + 📊 Visual Mapping + 🔄 Interactive Flow = Algorithm Clarity
+ Intent Recognition + Visual Mapping + Interactive Flow = Algorithm Clarity
 ```
 
 ### PrepFAST
 An AI-curated learning hub transforming how students prepare and collaborate.
 ```
-📚 Resource Curation + 🤖 AI Assistance + 👨‍👩‍👧‍👦 Community = Learning Acceleration
+Resource Curation + AI Assistance + Community = Learning Acceleration
 ```
 
 ### Tic-tac-toe AI
 Enhanced Sugar's classic game with Minimax algorithm, creating an intelligent opponent for solo players.
 ```
-🎮 Game Theory + 🎯 Decision Trees + 🔄 Recursive Thinking = Interesting Challenge
+Game Theory + Decision Trees + Recursive Thinking = Interesting Challenge
 ```
 
 ## Current Focus
