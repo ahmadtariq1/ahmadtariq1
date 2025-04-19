@@ -6,11 +6,6 @@
 
 Computer Science student at FAST NUCES. Interested in small AI models, parallel and distributed computing, and language design. 
 
-```python
-def solve(problem):
-    return elegant_solution(problem)
-
-```
 
 ## Technologies
 
@@ -35,7 +30,7 @@ Visualizing algorithms with interactive flowcharts, turning abstract code into t
 ### PrepFAST
 An AI-curated learning hub transforming how students prepare and collaborate.
 ```
-Resource Curation + AI Assistance + Community = Learning Acceleration
+Resource Curation + AI Assistance + Community = Learning 
 ```
 
 ### Tic-tac-toe AI
@@ -63,6 +58,6 @@ Lets connect here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Tari
 ---
 
 <div align="center">
-  <b>Your projects deserve attention. My repositories deserve stars.🎤💥</b>
+  <b>Your projects deserve attention. My repositories deserve stars.</b>
 </div>
 
