@@ -6,9 +6,6 @@
 
 Computer Science student at FAST NUCES. Interested in small AI models, parallel and distributed computing, and language design. 
 
-
-## Technologies
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -33,12 +30,6 @@ An AI-curated learning hub transforming how students prepare and collaborate.
 Resource Curation + AI Assistance + Community = Learning 
 ```
 
-### Tic-tac-toe AI
-Enhanced Sugar's classic game with Minimax algorithm, creating an intelligent opponent for solo players.
-```
-Game Theory + Decision Trees + Recursive Thinking = Interesting Challenge
-```
-
 ## Current Focus
 
 - Designing small AI powered activities for SugarLabs
@@ -47,12 +38,6 @@ Game Theory + Decision Trees + Recursive Thinking = Interesting Challenge
 - Experimenting with LLMs for educational applications
 
 Lets connect here: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Tariq-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-tariq-48723a24a/)
-
-## Languages & Tools
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadtariq1&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
 
 
 ---
