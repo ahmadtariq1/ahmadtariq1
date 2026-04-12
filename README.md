@@ -52,6 +52,11 @@ Getting into real-time data handling at scale. Also contributing to Valhalla, th
 
 <br>
 
+**Pull Requests**
+| | |
+|---|---|
+| [`valhalla#5972`](https://github.com/valhalla/valhalla/pull/5972/) | Valhalla |
+
 **Issues**
 | | |
 |---|---|
